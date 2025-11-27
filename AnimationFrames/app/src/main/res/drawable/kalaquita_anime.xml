@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/kalaquita_00" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_01" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_02" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_03" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_04" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_05" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_06" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_07" android:duration="100"/>
+    <item android:drawable="@drawable/kalaquita_08" android:duration="100"/>
+</animation-list>
